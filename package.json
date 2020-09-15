@@ -1,0 +1,25 @@
+{
+  "name": "javascript-basic",
+  "version": "1.0.0",
+  "description": "HackerRank JavaScript (basic) skill verification test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phatnguyenuit/HackerRank-Javascript-Basic.git"
+  },
+  "keywords": [
+    "hackerrank",
+    "javascript",
+    "skill",
+    "certification"
+  ],
+  "author": "PhatNguyen <phatnt.uit@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phatnguyenuit/HackerRank-Javascript-Basic/issues"
+  },
+  "homepage": "https://github.com/phatnguyenuit/HackerRank-Javascript-Basic#readme"
+}
