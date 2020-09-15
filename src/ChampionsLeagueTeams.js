@@ -17,7 +17,7 @@ const fetch = (url) => {
         });
       })
       .on('error', (err) => {
-        reject(err.message);
+        reject(err);
       });
   });
 };
